@@ -29,3 +29,9 @@ h1 {
     margin-top: 25px;
 
 }
+
+input{
+    border: none;
+    background-color: green;
+    color: white;
+}
