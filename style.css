@@ -20,10 +20,12 @@ body {
     opacity: 0.90;
     margin-left: 500px;
     margin-right:  500px;
-    padding: 10px
+    padding: 10px;
+    margin-top: 70px;
 }
 h1 {
     text-align: center;
     color: aliceblue;
+    margin-top: 25px;
 
 }
