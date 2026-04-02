@@ -4,74 +4,26 @@
 }
 
 body {
+    background-image: url(assets/cute-pets-pictures-zuymcyc2xx9620lu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     margin: 0;
     background-color: rgb(255, 255, 255);
 }
 
-nav {
+.form1 {
+    justify-content: center;
     display: flex;
-    align-items: center;
-    justify-content: space-around;
-
-    background-color: rgb(2, 1, 97);
-    color: rgb(252, 252, 252);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-
+     color: aliceblue;
+     font-size: large;
+    background-color: green;
+    opacity: 0.90;
+    margin-left: 500px;
+    margin-right:  500px;
+    padding: 10px
 }
-
-#noticias {
-    display: flex;
-    background-color: rgb(8, 8, 75);
-    margin: 40px;
-
-}
-
-.noticia {
-    background-color: rgb(150, 164, 241);
-    border: 10px solid white;
-    padding: 5px;
-    margin: 10px;
+h1 {
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.img_noticia {
-    height: 150px;
-
-}
-
-#escalacao {
-    display: flex;
-    background-color: rgb(8, 8, 75);
-    margin: 40px;
-    justify-content: space-around;
-}
-
-.jogador {
-     color: rgb(252, 252, 252);
-    padding: 5px;
-    margin: 10px;
-    text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.img_escalacao {
-    height: 150px;
-}
-
-
-footer {
-    background-color: rgb(248, 219, 57);
-    padding: 10px;
-    text-align: center;
-    color: rgb(0, 0, 0);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-body{
-        background-image: url(assets/gatos-e-caes-felizes-suspirando-juntos-em-uma-fila-contra-laranja_191971-30035.avif);
-        background-size: cover;
-        background-repeat: no-repeat;
+    color: aliceblue;
 
 }
