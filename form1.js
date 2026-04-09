@@ -3,7 +3,7 @@ document.getElementById("formAdocao").addEventListener("submit", function (e) {
     e.preventDefault();
 
     let nome = document.getElementById("Nome").value;
-    let email = document.getElementById("Email").value;
+    let email = document.getElementById("email").value;
     let moradia = document.getElementById("casa").value;
     let quintal = document.querySelector('input[name="quintal"]:checked');
     let cidade = document.getElementById("Cdd").value;
